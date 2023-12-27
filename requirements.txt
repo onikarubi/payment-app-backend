@@ -1,0 +1,8 @@
+fastapi
+pydantic
+uvicorn
+requests
+python-multipart
+passlib
+python-jose
+stripe
